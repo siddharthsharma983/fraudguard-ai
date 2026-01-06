@@ -57,34 +57,42 @@ src/
 
 [ ] PDF Fraud Reports: Automated generation of evidence reports for insurance or legal claims.
 
-### 💻 Installation & Usage
+## 💻 Installation & Usage
 
-### 1. Clone the repository:
+1. **Clone the repository:**
 
-```bash
-git clone [https://github.com/siddharthsharma983/fraudguard-ai.git](https://github.com/siddharthsharma983/fraudguard-ai.git)
+   ```bash
+   git clone [https://github.com/siddharthsharma983/fraudguard-ai.git](https://github.com/siddharthsharma983/fraudguard-ai.git)
 
-## 2. Navigate to the project folder:
+   ```
 
-cd fraudguard-ai
+2. **Navigate to the project folder:**
 
-## 3. Install dependencies:
+   ```Bash
+   cd fraudguard-ai
 
-npm install
+   ```
 
-## 4. Start the development server:
+3. **Install dependencies**
 
-npm run dev
+   ```bash
+   npm install
 
-### 👨‍💻 Connect with Me
+   ```
 
-I'm always open to discussing new projects, frontend architectures, or internship opportunities.
+4. **Start the development server:**
 
-GitHub Profile: https://github.com/siddharthsharma983
+   ```bash
+   npm run dev
 
-Email: [gs7248543@gmail.com]
+   ###👨‍💻 Connect with Me
+   I'm always open to discussing new projects, frontend architectures, or internship opportunities.
+   ```
 
-Portfolio: https://my-portfolio-tau-puce-27.vercel.app/
+GitHub Profile: siddharthsharma983
+
+Portfolio: My Portfolio
+
+Email: gs7248543@gmail.com
 
 Developed with ❤️ by Siddharth Sharma
-```
