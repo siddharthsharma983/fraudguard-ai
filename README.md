@@ -1,31 +1,76 @@
 # 🛡️ FraudGuard AI
 
-### AI-Powered Image Fraud Detection for Food Delivery Scams
+## AI-Powered Image Fraud Detection (Frontend Demonstration Project)
 
-**FraudGuard AI** is an innovative frontend application designed to tackle "fake item" and "synthetic complaint" scams in food delivery ecosystems. This tool is specifically built to identify AI-generated images and manual manipulations used in fraudulent refund claims.
+**FraudGuard AI** is a **frontend-focused React application** designed to demonstrate how food delivery platforms can visually handle **fake item images** and **fraudulent refund complaints**.
 
----
+⚠️ **Important Notice**
 
-## 🚀 Key Features for Interviewers
+> This is a **pure frontend project**. No backend services or AI models are implemented. All analysis results are **mocked/simulated** to showcase frontend behavior, UI flow, and application architecture.
 
-- **Advanced Image Processing:** Smooth React-based drag-and-drop system with instant image preview.
-- **Developer Sandbox (Demo Mode):** Integrated feature toggle to demonstrate UI transitions between 'Authentic' and 'Fraudulent' states during live presentations.
-- **Deep Scan Simulation:** Realistic pixel-pattern scanning and metadata verification visuals to mimic actual AI behavior.
-- **Industry-Ready Handover:** Includes a well-defined "Data Contract" for backend developers, demonstrating frontend-backend synergy.
-- **Modern UI/UX:** High-end developer experience built with Tailwind CSS, featuring glassmorphism and fully responsive layouts.
-
-## 🛠️ Technical Stack
-
-- **Framework:** React.js (Vite)
-- **Styling:** Tailwind CSS (Modern Glassmorphism)
-- **State Management:** React Hooks (Context-ready architecture)
-- **Documentation:** Markdown
+🌐 **Live Demo:** [https://fraudguard-ai-tau.vercel.app/](https://fraudguard-ai-tau.vercel.app/)
 
 ---
 
-## 🌉 Backend Integration Guide
+## 🎯 Project Purpose
 
-As a **Frontend Specialist**, I have designed the application to be "API-ready." The frontend is pre-configured to consume the following data contract from a backend service:
+Food delivery platforms often face fraud scenarios such as:
+
+* Uploading edited or fake food images
+* Using AI-generated images to claim refunds
+* Removing or manipulating image metadata
+
+As a **Frontend Developer**, the goal of this project is:
+
+> *To realistically demonstrate the fraud-detection user experience using modern frontend technologies.*
+
+---
+
+## 🚀 Key Features (Frontend-Oriented)
+
+### 🖼️ Image Upload Experience
+
+* Drag-and-drop image upload
+* Instant image preview
+* Clean and intuitive UI
+
+### 🧪 Demo / Simulation Mode
+
+* Interview-friendly mocked scan results
+* Visual transition between *Authentic* and *Fraudulent* states
+* Confidence score and fraud flag rendering
+
+### 🔍 Scan Result Visualization
+
+* AI probability indicator (simulated)
+* Fraud flags such as metadata stripping or pixel inconsistency
+* Clear status badges
+
+### 🎨 Modern UI / UX
+
+* Tailwind CSS-based modern design
+* Glassmorphism-inspired layout
+* Fully responsive across devices
+
+---
+
+## 🛠️ Tech Stack
+
+* **Framework:** React.js (Vite)
+* **Styling:** Tailwind CSS
+* **State Management:** React Hooks
+* **Architecture:** Component-based frontend structure
+* **Tooling:** Modern frontend workflow
+
+---
+
+## 🔗 Backend Integration (Conceptual Only)
+
+This application is **API-ready**, but does **not include backend implementation**.
+
+The frontend is designed so that any future AI or fraud-detection backend can be integrated easily.
+
+### Example Mock API Response
 
 ```json
 {
@@ -38,61 +83,83 @@ As a **Frontend Specialist**, I have designed the application to be "API-ready."
 }
 ```
 
-### 📁 Project Structure
+> 📝 This response is used only to demonstrate frontend rendering and UI behavior.
 
+---
+
+## 📁 Project Structure
+
+```
 src/
-├── components/ # Reusable UI components (Navbar, UploadArea)
-├── pages/ # Main application views (HomePage)
-├── assets/ # Global styles and static image assets
-├── App.jsx # Root component with layout management
-└── main.jsx # Application entry point
+├── components/      # Reusable UI components
+├── pages/           # Application screens
+├── assets/          # Images and global styles
+├── App.jsx          # Root layout component
+└── main.jsx         # Application entry point
+```
 
-### 🗺️ Roadmap & Future Enhancements
+---
 
-[ ] Real-time API Integration: Connection with production AI services like Hive or Illuminarty.
+## 🗺️ Future Enhancements (Optional)
 
-[ ] Batch Analysis: Support for analyzing multiple images simultaneously for order-wide fraud detection.
+* [ ] Real AI API integration (by backend team)
+* [ ] Multi-image upload UI
+* [ ] Admin dashboard interface
+* [ ] Downloadable fraud report (PDF UI)
+* [ ] Advanced analytics visualizations
 
-[ ] Admin Dashboard: A dedicated interface for store managers to track and flag repeat offenders.
+---
 
-[ ] PDF Fraud Reports: Automated generation of evidence reports for insurance or legal claims.
+## 💻 Local Development Setup
 
-## 💻 Installation & Usage
+### 1️⃣ Clone the Repository
 
-1. **Clone the repository:**
+```bash
+git clone https://github.com/siddharthsharma983/fraudguard-ai.git
+```
 
-   ```bash
-   git clone [https://github.com/siddharthsharma983/fraudguard-ai.git](https://github.com/siddharthsharma983/fraudguard-ai.git)
+### 2️⃣ Navigate to Project Directory
 
-   ```
+```bash
+cd fraudguard-ai
+```
 
-2. **Navigate to the project folder:**
+### 3️⃣ Install Dependencies
 
-   ```Bash
-   cd fraudguard-ai
+```bash
+npm install
+```
 
-   ```
+### 4️⃣ Start Development Server
 
-3. **Install dependencies**
+```bash
+npm run dev
+```
 
-   ```bash
-   npm install
+---
 
-   ```
+## 🌍 Live Project
 
-4. **Start the development server:**
+🔗 **Live URL:** [https://fraudguard-ai-tau.vercel.app/](https://fraudguard-ai-tau.vercel.app/)
 
-   ```bash
-   npm run dev
+---
 
-   ###👨‍💻 Connect with Me
-   I'm always open to discussing new projects, frontend architectures, or internship opportunities.
-   ```
+## 👨‍💻 Developer
 
-GitHub Profile: siddharthsharma983
+**Siddharth Sharma**
+Frontend Developer (React)
 
-Portfolio: My Portfolio
+* **GitHub:** [https://github.com/siddharthsharma983](https://github.com/siddharthsharma983)
+* **Email:** [gs7248543@gmail.com](mailto:gs7248543@gmail.com)
 
-Email: gs7248543@gmail.com
+---
 
-Developed with ❤️ by Siddharth Sharma
+## ❤️ Final Note
+
+FraudGuard AI is a **frontend showcase project** that highlights:
+
+* How frontend developers visualize real-world fraud problems
+* Clean UI/UX and component architecture
+* Backend-independent but integration-ready frontend design
+
+Built with ❤️ for interviews, learning, and frontend growth.
