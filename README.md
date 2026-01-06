@@ -59,32 +59,32 @@ src/
 
 ### 💻 Installation & Usage
 
-1. **Clone the repository:**
+### 1. Clone the repository:
 
-   ```bash
-   git clone [https://github.com/siddharthsharma983/fraudguard-ai.git](https://github.com/siddharthsharma983/fraudguard-ai.git)
-   ```
+```bash
+git clone [https://github.com/siddharthsharma983/fraudguard-ai.git](https://github.com/siddharthsharma983/fraudguard-ai.git)
 
-   ## 2. Navigate to the project folder:
+## 2. Navigate to the project folder:
 
-   cd fraudguard-ai
+cd fraudguard-ai
 
-   ## 3. Install dependencies:
+## 3. Install dependencies:
 
-   npm install
+npm install
 
-   ## 4. Start the development server:
+## 4. Start the development server:
 
-   npm run dev
+npm run dev
 
-   ### 👨‍💻 Connect with Me
+### 👨‍💻 Connect with Me
 
-   I'm always open to discussing new projects, frontend architectures, or internship opportunities.
+I'm always open to discussing new projects, frontend architectures, or internship opportunities.
 
-   GitHub Profile: https://github.com/siddharthsharma983
+GitHub Profile: https://github.com/siddharthsharma983
 
-   Email: [gs7248543@gmail.com]
+Email: [gs7248543@gmail.com]
 
-   Portfolio: https://my-portfolio-tau-puce-27.vercel.app/
+Portfolio: https://my-portfolio-tau-puce-27.vercel.app/
 
-   Developed with ❤️ by Siddharth Sharma
+Developed with ❤️ by Siddharth Sharma
+```
