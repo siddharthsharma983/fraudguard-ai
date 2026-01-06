@@ -69,20 +69,22 @@ src/
 
    cd fraudguard-ai
 
-## 3. Install dependencies:
+   ## 3. Install dependencies:
 
-npm install
+   npm install
 
-## 4. Start the development server:
+   ## 4. Start the development server:
 
-npm run dev
+   npm run dev
 
-### 👨‍💻 Connect with Me
+   ### 👨‍💻 Connect with Me
 
-I'm always open to discussing new projects, frontend architectures, or internship opportunities.
+   I'm always open to discussing new projects, frontend architectures, or internship opportunities.
 
-GitHub Profile: https://github.com/siddharthsharma983
-Email: [gs7248543@gmail.com]
-Portfolio: https://my-portfolio-tau-puce-27.vercel.app/
+   GitHub Profile: https://github.com/siddharthsharma983
 
-Developed with ❤️ by Siddharth Sharma
+   Email: [gs7248543@gmail.com]
+
+   Portfolio: https://my-portfolio-tau-puce-27.vercel.app/
+
+   Developed with ❤️ by Siddharth Sharma
