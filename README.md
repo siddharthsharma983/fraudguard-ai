@@ -8,7 +8,7 @@
 
 > This is a **pure frontend project**. No backend services or AI models are implemented. All analysis results are **mocked/simulated** to showcase frontend behavior, UI flow, and application architecture.
 
-🌐 **Live Demo:** [https://fraudguard-ai-tau.vercel.app/](https://fraudguard-ai-tau.vercel.app/)
+🌐 **Live Demo:** [https://fraudguard-ai-tau.vercel.app/](https://fraudguard-ai-dusky.vercel.app)
 
 ---
 
